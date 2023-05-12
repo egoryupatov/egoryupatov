@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi there 👋 It's me, Egor Yupatov on GitHub!
+## Hi there 👋 Welcome to my GitHub profile!
 
 </div>
 
