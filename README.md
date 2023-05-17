@@ -1,20 +1,24 @@
 <div align="center">
   
-## Hi there 👋 Welcome to my GitHub profile!
+## Hi there 👋 My name is Egor and I'm a front-end developer!
 
 </div>
 
-<!--
-**egoryupatov/egoryupatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building good-looking and reliable front-end (and occasionally back-end) for different services and applications.
 
-Here are some ideas to get you started:
+### Here are some fascinating facts about me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const egor = {
+  code: ["Javascript", "Typescript", "HTML", "CSS"],
+  tools: ["React", "Redux", "Next.js", "Nest.js", "SASS", "Styled Components", "Jest"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  currentLocation: {
+      country: "Russia",
+      city: "Saint-Petersburg"
+  },
+  challenge: "Develop the most beautiful and user-friendly interfaces 👨‍💻"
+}
+```
+### My GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=egoryupatov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
